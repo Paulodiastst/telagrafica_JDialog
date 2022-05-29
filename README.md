@@ -10,4 +10,4 @@ Testando Thread com uma tela gráfica desktop feita em Java Swing, e nessa tela 
 ## 📝 Primeiro código da tela
 
  <p align="center">
-<img src="https://user-images.githubusercontent.com/79487813/170893928-3031a8ce-1cc7-4f32-87b0-125461423a9b.png"/></P>
+<img src="https://user-images.githubusercontent.com/79487813/170895143-12ce7bb3-0727-446a-817f-453b19090dd9.png"/></P>

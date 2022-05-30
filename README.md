@@ -21,3 +21,8 @@ Testando Thread com uma tela gráfica desktop feita em Java Swing, e nessa tela 
 
  <p align="center">
 <img src="https://user-images.githubusercontent.com/79487813/170900697-680a1a12-89fd-40ee-813c-bc0c3578004f.png"/></P>
+
+## 📝 Controlando a Thead 1 com Start e Stop
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/170902687-31cbbc6a-d1f3-436f-8162-01658e9fbb58.png"/></P>

@@ -11,3 +11,8 @@ Testando Thread com uma tela gráfica desktop feita em Java Swing, e nessa tela 
 
  <p align="center">
 <img src="https://user-images.githubusercontent.com/79487813/170895143-12ce7bb3-0727-446a-817f-453b19090dd9.png"/></P>
+
+## 📝 GridBagConstraints gerenciador de posicionamento e layout
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/170898413-8d5015a8-2d3c-4338-9681-3bb88aeab6f5.png"/></P>
